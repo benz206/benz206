@@ -2,11 +2,9 @@
 
 Hello there!
 
-I'm Ben, I am currently learning python and node.js and hope to continue on to rust!
+I'm Ben, I am moderately proficient with python and am learning rust along with node.js and a little bit of HTML5 + CSS!
 
 My main focus as of now is [BennyBot](https://github.com/Leg3ndary/Benny), a discord bot written in python.
-
-The code is private but you'll be able to invite it soon and use it like any other good discord bot B)
 
 ![Leg3ndary's GitHub stats](https://github-readme-stats.vercel.app/api?username=leg3ndary&show_icons=true&theme=tokyonight)
 

@@ -2,7 +2,19 @@
 
 Hello there!
 
-I'm Ben, I am moderately proficient with python and am learning rust along with node.js and a little bit of HTML5 + CSS!
+I'm Ben, at the time of this writing I'm 15.
+
+## My current roadmap for programming related things
+
+1. 2020-2021 January-June Completed learning moderately advanced python.
+2. 2021 March-September Basics of SQL and MongoDB, thought aggregration of data with mongo was really interesting.
+3. 2021 March-Now Node.js, Java, HTML5, CSS basics
+4. 2021 May-December Linux, Ubuntu, Redhat, VPS management
+5. 2021 October-NowTMUX (Basic bash scripting), sphinx (github projects, readthedocs.io), creating basic packages
+6. 2022 Rust Basics
+7. 2022 Going to start going in depth with java for comp sci ap
+
+## Projects
 
 My main focus as of now is [BennyBot](https://github.com/Leg3ndary/Benny), a discord bot written in python.
 

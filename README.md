@@ -15,12 +15,15 @@ I'm Ben, at the time of this writing I'm 15.
 7. 2022 Going to start going in depth with java for comp sci ap
 8. 2022 Starting learning minecraft java plugins with java
 9. 2022 May Starting to create my first official package, https://github.com/Leg3ndary/complain
+10. 2022 June 1 Created my first official package, gonna work on complain later, but it's linked here, it's an async client for google translates ajax api! [aiogtrans](https://github.com/Leg3ndary/aiogtrans)
 
 ## Projects
 
 My main focus as of now is [BennyBot](https://github.com/Leg3ndary/Benny), a discord bot written in python.
 
 I am also working on a new package [complain](https://github.com/Leg3ndary/complain), a way to complain about others!
+
+Another package I'm workin gon is an asynchronous translator [aiogtrans](https://github.com/Leg3ndary/aiogtrans), it uses translate.google.com's api.
 
 Another project though I'm slowly working on is [tagscript-docs](https://github.com/Leg3ndary/tagscript-docs), modernized documentation for Carl-bots tagscript with [Readthedocs.io](https://readthedocs.org)
 

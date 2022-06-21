@@ -17,6 +17,9 @@ I'm Ben, at the time of this writing I'm 15.
 9. 2022 May Starting to create my first official package, https://github.com/Leg3ndary/complain
 10. 2022 June 1 Created my first official package, gonna work on complain later, but it's linked here, it's an async client for google translates ajax api! [aiogtrans](https://github.com/Leg3ndary/aiogtrans)
 
+Oh my, I'm 16 now, how the time flies.
+11. 2020 June 15? Started [bTagScript (Better Tagscript)](https://github.com/Leg3ndary/bTagScript), forked from a fork. Visit it for more info, sort of like a bad programming language
+
 ## Projects
 
 My main focus as of now is [BennyBot](https://github.com/Leg3ndary/Benny), a discord bot written in python.

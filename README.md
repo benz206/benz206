@@ -27,7 +27,7 @@ My main focus as of now is [BennyBot](https://github.com/Leg3ndary/Benny), a dis
 
 I am also working on a new package [complain](https://github.com/Leg3ndary/complain), a way to complain about others!
 
-Another package I'm workin gon is an asynchronous translator [aiogtrans](https://github.com/Leg3ndary/aiogtrans), it uses translate.google.com's api.
+Another package I'm working on is an asynchronous translator [aiogtrans](https://github.com/Leg3ndary/aiogtrans), it uses translate.google.com's api.
 
 Another project though I'm slowly working on is [tagscript-docs](https://github.com/Leg3ndary/tagscript-docs), modernized documentation for Carl-bots tagscript with [Readthedocs.io](https://readthedocs.org)
 

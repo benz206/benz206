@@ -19,7 +19,8 @@ I'm Ben, at the time of this writing I'm 15.
 
 Oh my, I'm 16 now, how the time flies.
 
-11. 2020 June 15? Started [bTagScript (Better Tagscript)](https://github.com/Leg3ndary/bTagScript), forked from a fork. Visit it for more info, sort of like a bad programming language
+11. 2022 June 15? Started [bTagScript (Better Tagscript)](https://github.com/Leg3ndary/bTagScript), forked from a fork. Visit it for more info, sort of like a bad programming language
+12. 2022 June 24 Started learning javascript and node.js, actually an interesting language using it for creating small wrappers for my websit, also started using githubs copilot
 
 ## Projects
 

@@ -95,6 +95,10 @@ I'm Ben, I enjoy programming, playing hockey, and sometimes learning new things,
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg"
 			width="45" height="45" alt="SSH" />
     </a>
+    <a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+			width="45" height="45" alt="Java" />
+    </a>
 </p>
 
 ## Learning
@@ -107,10 +111,6 @@ I'm Ben, I enjoy programming, playing hockey, and sometimes learning new things,
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"
 			width="45" height="45" alt="Heroku" />
-    </a>
-    <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-			width="45" height="45" alt="Java" />
     </a>
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"

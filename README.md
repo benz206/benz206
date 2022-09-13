@@ -1,5 +1,7 @@
 # Leg3ndary - Ben Z
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
 Hello there!
 
 I'm Ben, I enjoy programming, playing hockey, and sometimes learning new things, you can find more about me on my website

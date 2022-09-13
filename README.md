@@ -1,6 +1,6 @@
 # Leg3ndary - Ben Z
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=Leg3ndary&color=blue)
 
 Hello there!
 

@@ -106,6 +106,10 @@ I'm Ben, I enjoy programming, playing hockey, and sometimes learning new things,
 ## Learning
 
 <p align="left">
+	<a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg"
+			width="45" height="45" alt="Svelte" />
+    </a>
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
 			width="45" height="45" alt="BootStrap" />

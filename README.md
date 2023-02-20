@@ -134,8 +134,4 @@ I'm Ben, I enjoy programming, playing hockey, and sometimes learning new things,
 
 ## Projects
 
-My main focus as of now is [BennyBot](https://github.com/Leg3ndary/Benny), a discord bot written in python.
-
-I am also working on a new package [complain](https://github.com/Leg3ndary/complain), a way to complain about others!
-
-Another package I'm working on is an asynchronous translator [aiogtrans](https://github.com/Leg3ndary/aiogtrans), it uses translate.google.com's api.
+My main focuses as of now are [BennyBot](https://github.com/Leg3ndary/Benny), a discord bot written in python as well as multiple other short projects, I'm also starting to do competitive programming, along with Rust, C++, Java, and of course JavaScript/TypeScript.

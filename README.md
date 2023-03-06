@@ -47,10 +47,14 @@ I'm Ben, I enjoy programming, playing hockey, and sometimes learning new things,
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
 			width="45" height="45" alt="Linux" />
     </a>
+    <a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+			width="45" height="45" alt="Bash" />
+    </a>
 </p>
 
 
-## Decent
+## Moderate
 
 <p align="left">
 	<a href="#">
@@ -60,10 +64,6 @@ I'm Ben, I enjoy programming, playing hockey, and sometimes learning new things,
 	<a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
 			width="45" height="45" alt="JavaScript" />
-    </a>
-    <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
-			width="45" height="45" alt="Bash" />
     </a>
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"

@@ -31,25 +31,21 @@ I'm Ben, I enjoy programming, playing hockey, and sometimes learning new things,
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"
 			width="45" height="45" alt="Ubuntu" />
     </a>
-	<a href="#">
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
 			width="45" height="45" alt="Flask" />
     </a>
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg"
-			width="45" height="45" alt="AfterEffects" />
-    </a>
     <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"
-			width="45" height="45" alt="Canva" />
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+			width="45" height="45" alt="Java" />
     </a>
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"
 			width="45" height="45" alt="Markdown" />
     </a>
     <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"
-			width="45" height="45" alt="Trello" />
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+			width="45" height="45" alt="Linux" />
     </a>
 </p>
 
@@ -78,10 +74,6 @@ I'm Ben, I enjoy programming, playing hockey, and sometimes learning new things,
 			width="45" height="45" alt="HTML5" />
     </a>
     <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-			width="45" height="45" alt="Linux" />
-    </a>
-    <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
 			width="45" height="45" alt="MongoDB" />
     </a>
@@ -100,10 +92,6 @@ I'm Ben, I enjoy programming, playing hockey, and sometimes learning new things,
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg"
 			width="45" height="45" alt="SSH" />
-    </a>
-    <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-			width="45" height="45" alt="Java" />
     </a>
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"

@@ -1,31 +1,20 @@
-# Leg3ndary - Ben Z
+# Leg3ndary
 
-![](https://komarev.com/ghpvc/?username=Leg3ndary&color=blue)
+Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology.
 
-Hello there!
+- :telescope: I'm currently exploring many different languages and tools specifically Typescript & JavaScript, Rust, React, Svelte, Vue.
 
-I'm Ben, I enjoy programming, playing hockey, and sometimes learning new things, you can find more about me on my website
+- :seedling: I also enjoy working on open source projects, primarily in python and javascript.
 
-- :telescope: I'm currently exploring the vast technological world, specifically Typescript & Javascript, Rust, and Java.
+- :zap: In my free time, I enjoy playing sports like hockey and basketball, I also do practice problems on DMOJ.
 
-- :seedling: Working on many open source projects, primarily in python.
 
-- :zap: In my free time, I do problems on leetcode as well as going outside.
-
-![Leg3ndary's GitHub stats](https://github-readme-stats.vercel.app/api?username=leg3ndary&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leg3ndary&layout=compact&theme=tokyonight)
-
-## Proficient
+## Expert
 
 <p align="left">
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 			width="45" height="45" alt="Python" />
-    </a>
-    <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-			width="45" height="45" alt="VSCode" />
     </a>
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"
@@ -40,16 +29,24 @@ I'm Ben, I enjoy programming, playing hockey, and sometimes learning new things,
 			width="45" height="45" alt="Java" />
     </a>
     <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"
-			width="45" height="45" alt="Markdown" />
-    </a>
-    <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
 			width="45" height="45" alt="Linux" />
     </a>
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
 			width="45" height="45" alt="Bash" />
+    </a>
+	<a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg"
+			width="45" height="45" alt="RaspberryPi" />
+    </a>
+	<a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+			width="45" height="45" alt="MongoDB" />
+    </a>
+	<a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
+			width="45" height="45" alt="Sqlite3" />
     </a>
 </p>
 
@@ -74,20 +71,8 @@ I'm Ben, I enjoy programming, playing hockey, and sometimes learning new things,
 			width="45" height="45" alt="HTML5" />
     </a>
     <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-			width="45" height="45" alt="MongoDB" />
-    </a>
-    <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
 			width="45" height="45" alt="Redis" />
-    </a>
-    <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg"
-			width="45" height="45" alt="RaspberryPi" />
-    </a>
-    <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
-			width="45" height="45" alt="Sqlite3" />
     </a>
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg"
@@ -107,23 +92,9 @@ I'm Ben, I enjoy programming, playing hockey, and sometimes learning new things,
     </a>
 </p>
 
-## Learning
+## My Statistics
 
-<p align="left">
-	<a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg"
-			width="45" height="45" alt="Svelte" />
-    </a>
-    <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
-			width="45" height="45" alt="BootStrap" />
-    </a>
-    <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"
-			width="45" height="45" alt="Heroku" />
-    </a>
-</p>
+![Leg3ndary's GitHub stats](https://github-readme-stats.vercel.app/api?username=leg3ndary&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leg3ndary&layout=compact&theme=tokyonight)
 
-## Projects
-
-My main focuses as of now are [BennyBot](https://github.com/Leg3ndary/Benny), a discord bot written in python as well as multiple other short projects, I'm also starting to do competitive programming, along with Rust, C++, Java, and of course JavaScript/TypeScript.
+![](https://komarev.com/ghpvc/?username=Leg3ndary&color=blue)

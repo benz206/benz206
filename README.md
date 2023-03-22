@@ -4,7 +4,7 @@ Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology.
 
 - :telescope: I'm currently exploring many different languages and tools, specifically Typescript & JavaScript, Rust, React, Svelte and Vue.
 
-- :seedling: I also enjoy working on open source projects, primarily in python and javascript.
+- :seedling: I also enjoy working on open source projects, primarily in Python and occasionally in JavaScript/TypeScript.
 
 - :jigsaw: I'm also extremely interested in different methods of ML such as logistical regression and decision trees, as well as blockchaining.
 

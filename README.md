@@ -11,7 +11,7 @@ Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology.
 - :zap: In my free time, I enjoy playing sports like hockey and basketball, I also do practice problems on DMOJ.
 
 
-## Expert
+## Proficient
 
 <p align="left">
     <a href="#">

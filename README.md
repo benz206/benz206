@@ -2,13 +2,15 @@
 
 Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology.
 
-- :telescope: I'm currently exploring many different languages and tools, specifically Typescript & JavaScript, Rust, React, Svelte and Vue.
+- 🔭 I'm currently exploring many different languages and tools, specifically Typescript & JavaScript, Rust, React, Svelte and Vue.
 
-- :seedling: I also enjoy working on open source projects, primarily in Python and occasionally in JavaScript/TypeScript.
+- 🌱 I also enjoy working on open source projects, primarily in Python and occasionally in JavaScript/TypeScript.
 
-- :jigsaw: I'm also extremely interested in different methods of ML such as logistical regression and decision trees, as well as blockchaining.
+- 🧩 I'm also extremely interested in different methods of ML such as logistical regression and decision trees, as well as blockchaining.
 
-- :zap: In my free time, I enjoy playing sports like hockey and basketball, I also do practice problems on DMOJ.
+- ⚡ In my free time, I enjoy playing sports like hockey and basketball, I also do practice problems on DMOJ.
+
+- 🥇 I also enter hackathons, and recently won best overall software project for a 261 participant school hackathon.
 
 
 ## Proficient

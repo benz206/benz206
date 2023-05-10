@@ -1,14 +1,12 @@
 # Leg3ndary
 
-Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology.
+Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology, you can always contact me at _Leg3ndary#0001.
 
-- 🔭 I'm currently exploring many different languages and tools, specifically Typescript & JavaScript, Rust, React, Svelte and Vue.
+- 🔭 I'm currently exploring many different languages and tools, specifically Typescript & JavaScript, Rust, NextJS, Svelte and Vue.
 
 - 🌱 I also enjoy working on open source projects, primarily in Python and occasionally in JavaScript/TypeScript.
 
-- 🧩 I'm also extremely interested in different methods of ML such as logistical regression and decision trees, as well as blockchaining.
-
-- ⚡ In my free time, I enjoy playing sports like hockey and basketball, I also do practice problems on DMOJ.
+- 🧩 I'm also extremely interested in different methods of ML such as logistical regression and decision trees, as well as blockchain.
 
 - 🥇 I also enter hackathons, and recently won best overall software project for a 261 participant school hackathon.
 

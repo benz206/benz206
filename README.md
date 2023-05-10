@@ -61,6 +61,10 @@ Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology,
 			width="45" height="45" alt="Cplusplus" />
     </a>
 	<a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+			width="45" height="45" alt="C" />
+    </a>
+	<a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
 			width="45" height="45" alt="JavaScript" />
     </a>

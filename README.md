@@ -8,8 +8,9 @@ Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology,
 
 - 🧩 I'm also extremely interested in different methods of ML such as logistical regression and decision trees, as well as blockchain.
 
-- 🥇 I also enter hackathons, and recently won best overall software project for a 261 participant school hackathon.
-
+- 🥇 I also enter hackathons
+	- First Overall in Software: HDSB Hacks 2023 (261 Participants)
+	- First Overall in Entertainment: Eureka Hackathon 2023 ( 130~ Participants)
 
 ## Proficient
 

@@ -96,6 +96,10 @@ Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology,
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
 			width="45" height="45" alt="React" />
     </a>
+    <a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+			width="45" height="45" alt="NextJS" />
+    </a>
 </p>
 
 ## My Statistics

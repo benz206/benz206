@@ -51,6 +51,10 @@ Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology,
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
 			width="45" height="45" alt="Sqlite3" />
     </a>
+	<a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
+			width="45" height="45" alt="Redis" />
+    </a>
 </p>
 
 
@@ -76,10 +80,6 @@ Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology,
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
 			width="45" height="45" alt="HTML5" />
-    </a>
-    <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
-			width="45" height="45" alt="Redis" />
     </a>
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg"

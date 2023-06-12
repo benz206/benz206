@@ -1,6 +1,6 @@
 # Leg3ndary
 
-Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology, you can always contact me at \_leg3ndary on discordm formerly \_Leg3ndary#0001.
+Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology, you can always contact me at \**_leg3ndary** on discord formerly \_Leg3ndary#0001.
 
 - 🔭 I'm currently exploring many different languages and tools, specifically Typescript & JavaScript, Rust, NextJS, Svelte and Vue.
 

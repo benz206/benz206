@@ -12,7 +12,7 @@ Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology,
 	- First Overall in Software: HDSB Hacks 2023 (261 Participants)
 	- First Overall in Entertainment: Eureka Hackathon 2023 (130~ Participants)
 
-## Proficient
+## Skills
 
 <p align="left">
     <a href="#">
@@ -54,7 +54,7 @@ Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology,
 </p>
 
 
-## Moderate
+## Interested in...
 
 <p align="left">
 	<a href="#">

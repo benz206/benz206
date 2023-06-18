@@ -1,14 +1,14 @@
 # Leg3ndary
 
-Hello, I'm Ben, a Junior in High School who enjoys the vast world of technology, you can always contact me at **\_leg3ndary** on discord formerly \_Leg3ndary#0001.
+I'm Ben, a Junior in High School who enjoys the vast world of programming.
 
-- 🔭 I'm currently exploring many different languages and tools, specifically Typescript & JavaScript, Rust, NextJS, Svelte and Vue.
+You can always contact me at **\_leg3ndary** on discord formerly \_Leg3ndary#0001.
+
+- 🔭 I'm currently exploring many different languages and tools, specifically Typescript & JavaScript, Rust, React, and Vue.
 
 - 🌱 I also enjoy working on open source projects, primarily in Python and occasionally in JavaScript/TypeScript.
 
-- 🧩 I'm also extremely interested in different methods of ML such as logistical regression and decision trees, as well as blockchain.
-
-- 🥇 I also enter hackathons
+- 🥇 I enter hackathons too.
 	- First Overall in Software: HDSB Hacks 2023 (261 Participants)
 	- First Overall in Entertainment: Eureka Hackathon 2023 (130~ Participants)
 

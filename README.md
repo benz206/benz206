@@ -1,16 +1,16 @@
 # Leg3ndary
 
-I'm Ben, a Junior in High School who enjoys the vast world of programming.
+I'm Ben, I'm 17 and I love programming.
 
 You can always contact me at **\_leg3ndary** on discord formerly \_Leg3ndary#0001.
 
-- 🔭 I'm currently exploring many different languages and tools, specifically Typescript & JavaScript, Rust, React, and Vue.
+- 🔭 I'm currently exploring many different languages and tools, specifically Typescript & JavaScript, Rust and React.
 
-- 🌱 I also enjoy working on open source projects, primarily in Python and occasionally in JavaScript/TypeScript.
+- 🌱 I also enjoy working on open-source projects, primarily in Python and occasionally in JavaScript/TypeScript.
 
 - 🥇 I enter hackathons too.
-	- First Overall in Software: HDSB Hacks 2023 (261 Participants)
-	- First Overall in Entertainment: Eureka Hackathon 2023 (130~ Participants)
+	- First Overall in Software (Solo): Halton District School Board Hacks 2023 (261 Hackers)
+	- First Overall in Entertainment (Led a team of 4): Eureka Hackathon 2023 (130~ Hackers)
 
 ## Skills
 

@@ -16,6 +16,10 @@ You can always contact me at **\_leg3ndary** on discord formerly \_Leg3ndary#000
 
 <p align="left">
     <a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+			width="45" height="45" alt="React" />
+    </a>
+    <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 			width="45" height="45" alt="Python" />
     </a>
@@ -92,10 +96,6 @@ You can always contact me at **\_leg3ndary** on discord formerly \_Leg3ndary#000
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
 			width="45" height="45" alt="TypeScript" />
-    </a>
-    <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-			width="45" height="45" alt="React" />
     </a>
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"

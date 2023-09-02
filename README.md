@@ -59,6 +59,26 @@ You can always contact me at **\_leg3ndary** on discord formerly \_Leg3ndary#000
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
 			width="45" height="45" alt="Redis" />
     </a>
+    <a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+			width="45" height="45" alt="TypeScript" />
+    </a>
+    <a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+			width="45" height="45" alt="NextJS" />
+    </a>
+    <a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+			width="45" height="45" alt="JavaScript" />
+    </a>
+    <a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+			width="45" height="45" alt="CSS" />
+    </a>
+    <a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+			width="45" height="45" alt="HTML5" />
+    </a>
 </p>
 
 
@@ -73,18 +93,6 @@ You can always contact me at **\_leg3ndary** on discord formerly \_Leg3ndary#000
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
 			width="45" height="45" alt="C" />
     </a>
-	<a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-			width="45" height="45" alt="JavaScript" />
-    </a>
-    <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-			width="45" height="45" alt="CSS" />
-    </a>
-    <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-			width="45" height="45" alt="HTML5" />
-    </a>
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg"
 			width="45" height="45" alt="SSH" />
@@ -92,14 +100,6 @@ You can always contact me at **\_leg3ndary** on discord formerly \_Leg3ndary#000
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
 			width="45" height="45" alt="Rust" />
-    </a>
-    <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-			width="45" height="45" alt="TypeScript" />
-    </a>
-    <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
-			width="45" height="45" alt="NextJS" />
     </a>
 </p>
 

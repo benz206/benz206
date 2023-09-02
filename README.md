@@ -4,9 +4,9 @@ I'm Ben, I'm 17 and I love programming.
 
 You can always contact me at **\_leg3ndary** on discord formerly \_Leg3ndary#0001.
 
-- 🔭 I'm currently exploring many different languages and tools, specifically Typescript & JavaScript, Rust and React.
+- 🔭 I'm currently exploring many different languages and tools, specifically Typescript, Rust.
 
-- 🌱 I also enjoy working on open-source projects, primarily in Python and occasionally in JavaScript/TypeScript.
+- 🌱 I also enjoy working on open-source and such projects alike, primarily in Python and React.
 
 - 🥇 I enter hackathons too.
 	- First Overall in Software (Solo): Halton District School Board Hacks 2023 (261 Hackers)

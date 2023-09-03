@@ -79,6 +79,14 @@ You can always contact me at **\_leg3ndary** on discord formerly \_Leg3ndary#000
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
 			width="45" height="45" alt="HTML5" />
     </a>
+    <a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+			width="45" height="45" alt="Tailwind" />
+    </a>
+    <a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
+			width="45" height="45" alt="Firebase" />
+    </a>
 </p>
 
 

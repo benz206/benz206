@@ -11,6 +11,7 @@ You can always contact me at **\_leg3ndary** on discord formerly \_Leg3ndary#000
 - 🥇 I enter hackathons too.
 	- First Overall in Software (Solo): Halton District School Board Hacks 2023 (261 Hackers)
 	- First Overall in Entertainment (Led a team of 4): Eureka Hackathon 2023 (130~ Hackers)
+        - Third Overall: Hack the Ridge (150~ Hackers)
 
 ## Skills
 

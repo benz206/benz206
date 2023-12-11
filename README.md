@@ -1,17 +1,15 @@
 # Leg3ndary
 
-I'm Ben, I'm 17 and I love programming.
+I'm Ben, I'm 17 and I'm experienced in many different areas of programming.
 
-You can always contact me at **\_leg3ndary** on discord formerly \_Leg3ndary#0001.
+- 🔭 I'm currently exploring many different languages and tools, specifically Typescript, and C++.
 
-- 🔭 I'm currently exploring many different languages and tools, specifically Typescript, Rust.
-
-- 🌱 I also enjoy working on open-source and such projects alike, primarily in Python and React.
+- 🌱 I also enjoy working on open-source and personal projects.
 
 - 🥇 I enter hackathons too.
 	- First Overall in Software (Solo): Halton District School Board Hacks 2023 (261 Hackers)
 	- First Overall in Entertainment (Led a team of 4): Eureka Hackathon 2023 (130~ Hackers)
- 	- Third Overall: Hack the Ridge (150~ Hackers)
+ 	- Third Overall (Led a team of 3): Hack the Ridge (150~ Hackers)
 
 ## Skills
 
@@ -108,6 +106,10 @@ You can always contact me at **\_leg3ndary** on discord formerly \_Leg3ndary#000
     </a>
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
+			width="45" height="45" alt="Rust" />
+    </a>
+    <a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"
 			width="45" height="45" alt="Rust" />
     </a>
 </p>

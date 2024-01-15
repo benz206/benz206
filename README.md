@@ -1,8 +1,8 @@
 # Leg3ndary
 
-I'm Ben, I'm 17 and I'm experienced in many different areas of programming.
+I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
 
-- 🔭 I'm currently exploring many different languages and tools, specifically Typescript, and C++.
+- 🔭 I'm currently exploring many different languages, frameworks and tools, specifically Typescript, Next.js, and C++.
 
 - 🌱 I also enjoy working on open-source and personal projects.
 

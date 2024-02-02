@@ -86,17 +86,17 @@ I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
 			width="45" height="45" alt="Firebase" />
     </a>
+    <a href="#">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+			width="45" height="45" alt="Cplusplus" />
+    </a>
 </p>
 
 
 ## Interested in...
 
 <p align="left">
-	<a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-			width="45" height="45" alt="Cplusplus" />
-    </a>
-	<a href="#">
+    <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
 			width="45" height="45" alt="C" />
     </a>

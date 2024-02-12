@@ -79,7 +79,7 @@ I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
 			width="45" height="45" alt="HTML5" />
     </a>
     <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
 			width="45" height="45" alt="Tailwind" />
     </a>
     <a href="#">
@@ -105,12 +105,12 @@ I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
 			width="45" height="45" alt="SSH" />
     </a>
     <a href="#">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
 			width="45" height="45" alt="Rust" />
     </a>
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"
-			width="45" height="45" alt="Rust" />
+			width="45" height="45" alt="C++" />
     </a>
 </p>
 

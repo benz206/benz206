@@ -7,9 +7,9 @@ I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
 - 🌱 In my free time I work on open-source projects, personal projects, and competitive programming in C++.
 
 - 🥇 I enter hackathons too.
-	- First Overall in Software (Solo): Halton District School Board Hacks 2023 (261 Hackers)
-	- First Overall in Entertainment (Led a team of 4): Eureka Hackathon 2023 (130~ Hackers)
- 	- Third Overall (Led a team of 3): Hack the Ridge (150~ Hackers)
+  - First Overall in Software (Solo): Halton District School Board Hacks 2023 (261 Hackers)
+  - First Overall in Entertainment (Led a team of 4): Eureka Hackathon 2023 (130~ Hackers)
+  - Third Overall (Led a team of 3): Hack the Ridge (150~ Hackers)
 
 ## Skills
 
@@ -91,7 +91,6 @@ I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
 			width="45" height="45" alt="Cplusplus" />
     </a>
 </p>
-
 
 ## Interested in...
 

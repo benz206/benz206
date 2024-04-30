@@ -94,6 +94,10 @@ I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 			width="45" height="45" alt="Figma" />
     </a>
+    <a href="#">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
+			width="45" height="45" alt="Arduino" />
+    </a>
 </p>
 
 ## Interested in...

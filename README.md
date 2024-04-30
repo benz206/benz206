@@ -2,6 +2,8 @@
 
 I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
 
+- 💼 I'm a current Co-Op student working at SAP d-Shop Toronto.
+
 - 🔭 I'm currently exploring many different languages, frameworks and tools, specifically Typescript, Next.js, and C++.
 
 - 🌱 In my free time I work on open-source projects, personal projects, and competitive programming in C++.

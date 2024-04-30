@@ -90,6 +90,10 @@ I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
 			width="45" height="45" alt="Cplusplus" />
     </a>
+    <a href="#">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+			width="45" height="45" alt="Figma" />
+    </a>
 </p>
 
 ## Interested in...

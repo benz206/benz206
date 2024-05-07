@@ -6,7 +6,7 @@ I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
 
 - 🔭 I'm currently exploring many different languages, frameworks and tools, specifically Typescript, Next.js, and C++.
 
-- 🌱 In my free time I work on open-source projects, personal projects, and competitive programming in C++.
+- 🌱 In my free time I work on open-source projects, personal projects, publicly available packages, and competitive programming in C++.
 
 - 🥇 I enter hackathons too.
   - First Overall in Software (Solo): Halton District School Board Hacks 2023 (261 Hackers)

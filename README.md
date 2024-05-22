@@ -15,121 +15,121 @@ I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
 
 ## Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <div>
+<p>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
 			width="45" height="45" alt="React" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 			width="45" height="45" alt="Python" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"
 			width="45" height="45" alt="Ubuntu" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
 			width="45" height="45" alt="Flask" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
 			width="45" height="45" alt="Java" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
 			width="45" height="45" alt="Linux" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
 			width="45" height="45" alt="Bash" />
-    </div>
-	<div>
+    </span>
+	<span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg"
 			width="45" height="45" alt="RaspberryPi" />
-    </div>
-	<div>
+    </span>
+	<span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
 			width="45" height="45" alt="MongoDB" />
-    </div>
-	<div>
+    </span>
+	<span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
 			width="45" height="45" alt="Sqlite3" />
-    </div>
-	<div>
+    </span>
+	<span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
 			width="45" height="45" alt="Redis" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
 			width="45" height="45" alt="TypeScript" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
 			width="45" height="45" alt="NextJS" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
 			width="45" height="45" alt="JavaScript" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
 			width="45" height="45" alt="CSS" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
 			width="45" height="45" alt="HTML5" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
 			width="45" height="45" alt="Tailwind" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
 			width="45" height="45" alt="Firebase" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
 			width="45" height="45" alt="Cplusplus" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 			width="45" height="45" alt="Figma" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
 			width="45" height="45" alt="Arduino" />
-    </div>
-    <div>
+    </span>
+    <p>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg"
 			width="45" height="45" alt="XML" />
-    </div>
-</div>
+    </span>
+</p>
 
 ## Interested in...
 
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <div>
+<p>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
 			width="45" height="45" alt="C" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg"
 			width="45" height="45" alt="SSH" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
 			width="45" height="45" alt="Rust" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"
 			width="45" height="45" alt="C++" />
-    </div>
-    <div>
+    </span>
+    <span>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
 			width="45" height="45" alt="Prisma" />
-    </div>
-</div>
+    </span>
+</p>
 
 ## My Statistics
 ![Leg3ndary's GitHub stats](https://github-readme-stats.vercel.app/api?username=leg3ndary&show_icons=true&theme=tokyonight)

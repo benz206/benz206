@@ -100,7 +100,7 @@ I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
 			width="45" height="45" alt="Arduino" />
     </span>
-    <p>
+    <span>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg"
 			width="45" height="45" alt="XML" />
     </span>

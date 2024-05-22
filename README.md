@@ -15,7 +15,7 @@ I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
 
 ## Skills
 
-<p align="left">
+<div align="left">
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
 			width="45" height="45" alt="React" />
@@ -104,11 +104,11 @@ I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg"
 			width="45" height="45" alt="XML" />
     </a>
-</p>
+</div>
 
 ## Interested in...
 
-<p align="left">
+<div align="left">
     <a href="#">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
 			width="45" height="45" alt="C" />
@@ -129,11 +129,11 @@ I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
 			width="45" height="45" alt="Prisma" />
     </a>
-</p>
+</div>
 
 ## My Statistics
-
 ![Leg3ndary's GitHub stats](https://github-readme-stats.vercel.app/api?username=leg3ndary&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leg3ndary&layout=compact&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=Leg3ndary&color=blue)

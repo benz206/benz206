@@ -1,6 +1,8 @@
 # Leg3ndary
 
-I'm Ben, I'm 17, and I'm experienced in many different areas of software and hardware.
+Hi! I'm Ben, I'm 17, and I'm experienced in many different areas of software and hardware.
+
+I am an incoming Computer Engineering Student at the University of Waterloo.
 
 - 💼 I'm a current Co-Op student working at SAP d-Shop Toronto.
 

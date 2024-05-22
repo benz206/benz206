@@ -1,12 +1,10 @@
 # Leg3ndary
 
-I'm Ben, I'm 17, and I'm experienced in many different areas of programming.
+I'm Ben, I'm 17, and I'm experienced in many different areas of software and hardware.
 
 - 💼 I'm a current Co-Op student working at SAP d-Shop Toronto.
 
-- 🔭 I'm currently exploring many different languages, frameworks and tools, specifically Typescript, Next.js, and C++.
-
-- 🌱 In my free time I work on open-source projects, personal projects, publicly available packages, and competitive programming in C++.
+- 🌱 In my free time I work on personal projects, packages/libraries, and competitive programming.
 
 - 🥇 I enter hackathons too.
   - First Overall in Software (Solo): Halton District School Board Hacks 2023 (261 Hackers)

@@ -5,7 +5,7 @@ Hi! I'm Ben, an 18-year-old incoming Computer Engineering student at the Univers
 - 💼 Previous intern  @SAP and @Averroes Technologies, focusing on creating software and hardware prototypes.
 - 🌱 I spend my free time working on personal projects, creating packages/libraries, and competing in hackathons.
 - 🥇 Some of my achievements include:
-  - **Sponsor Award Winner**: Hack the North 2024
+  - **Sponsor Award Winner**: Hack the North 2024 (1000+ Hackers)
   - **First Overall in Software (Solo)**: Halton District School Board Hacks 2023 (261 Hackers)
   - **First Overall in Entertainment (Team Lead)**: Eureka Hackathon 2023 (130+ Hackers)
   - **Third Overall (Team Lead)**: Hack the Ridge 2023 (150+ Hackers)

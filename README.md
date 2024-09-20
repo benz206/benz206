@@ -2,7 +2,7 @@
 
 Hi! I'm Ben, an 18-year-old incoming Computer Engineering student at the University of Waterloo with a strong passion for both software and hardware development.
 
-- 💼 Currently a Co-op student working at Averroes Technologies, focusing on prototype engineering.
+- 💼 Previous intern working at Averroes Technologies, focusing on prototype engineering.
 - 🌱 I spend my free time working on personal projects, creating packages/libraries, and competing in hackathons.
 - 🥇 Some of my achievements include:
   - **Sponsor Award Winner**: Hack the North 2024

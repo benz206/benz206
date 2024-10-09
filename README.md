@@ -1,8 +1,8 @@
 # Leg3ndary
 
-Hi! I'm Ben, an 18-year-old incoming Computer Engineering student at the University of Waterloo with a strong passion for both software and hardware development.
+Hi! I'm Ben, an 18-year-old 1A Computer Engineering student at the University of Waterloo with a strong passion for both software and hardware development.
 
-- 💼 Previous intern  @SAP and @Averroes Technologies, focusing on creating software and hardware prototypes.
+- 💼 I previously interned  @SAP and @Averroes Technologies, focusing on creating software and hardware prototypes.
 - 🌱 I spend my free time working on personal projects, creating packages/libraries, and competing in hackathons.
 - 🥇 Some of my achievements include:
   - **Sponsor Award Winner**: Hack the North 2024 (1000+ Hackers)

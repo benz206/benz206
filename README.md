@@ -2,7 +2,7 @@
 
 Hi! I'm Ben, an 18-year-old 1A Computer Engineering student at the University of Waterloo with a strong passion for both software and hardware development.
 
-- 💼 I previously interned  @SAP and @Averroes Technologies, focusing on creating software and hardware prototypes.
+- 💼 I will be joining Fuego for the 2025 Winter Term, I also previously interned  @SAP.
 - 🌱 I spend my free time working on personal projects, creating packages/libraries, and competing in hackathons.
 - 🥇 Some of my achievements include:
   - **Sponsor Award Winner**: Hack the North 2024 (1000+ Hackers)

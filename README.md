@@ -1,6 +1,6 @@
 # Leg3ndary
 
-Hi! I'm Ben, an 18-year-old 1A Computer Engineering student at the University of Waterloo with a strong passion for both software and hardware development.
+Hi! I'm Ben, an 18-year-old 1B Computer Engineering student at the University of Waterloo with a strong passion for software development.
 
 - 💼 I'm currently working for [@Fuego](https://fuego.io), building fully customizable native apps, I also previously interned  [@SAP](https://github.com/SAP).
 - 🌱 I spend my free time working on personal projects, creating packages/libraries, and competing in hackathons.

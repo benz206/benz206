@@ -5,10 +5,10 @@ Hi! I'm Ben, an 18-year-old 1B Computer Engineering student at the University of
 - 💼 I'm currently working for [@Fuego](https://fuego.io), building fully customizable native apps, I also previously interned  [@SAP](https://github.com/SAP).
 - 🌱 I spend my free time working on personal projects, creating packages/libraries, and competing in hackathons.
 - 🥇 Some of my achievements include:
-  - **Sponsor Award Winner**: Hack the North 2024 (1000+ Hackers)
-  - **First Overall in Software (Solo)**: Halton District School Board Hacks 2023 (261 Hackers)
-  - **First Overall in Entertainment (Team Lead)**: Eureka Hackathon 2023 (130+ Hackers)
-  - **Third Overall (Team Lead)**: Hack the Ridge 2023 (150+ Hackers)
+  - **Sponsor Award Winner**: Hack the North 2024
+  - **First Overall in Software**: Halton District School Board Hacks 2023
+  - **First Overall in Entertainment**: Eureka Hackathon 2023
+  - **Third Overall**: Hack the Ridge 2023
 
 ## Skills
 

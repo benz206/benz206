@@ -1,4 +1,4 @@
-# Leg3ndary
+# Ben Z
 
 Hi! I'm Ben, an 18-year-old 1B Computer Engineering student at the University of Waterloo who is passionate about software development.
 

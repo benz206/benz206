@@ -50,8 +50,8 @@ Hi! I'm Ben, an 18-year-old 1B Computer Engineering student at the University of
 
 ## My Statistics
 
-![Ben Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=leg3ndary&show_icons=true&theme=tokyonight)
+![Ben Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=benz206&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leg3ndary&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benz206&layout=compact&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=Leg3ndary&color=blue)
+![](https://komarev.com/ghpvc/?username=benz206&color=blue)

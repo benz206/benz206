@@ -54,4 +54,4 @@ Hi! I'm Ben, an 18-year-old 1B Computer Engineering student at the University of
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benz206&layout=compact&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=benz206&color=blue)
+![](https://komarev.com/ghpvc/?username=leg3ndary&color=blue)

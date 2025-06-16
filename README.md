@@ -1,6 +1,6 @@
 # Ben Z
 
-Hi! I'm Ben, an 18-year-old 1B Computer Engineering student at the University of Waterloo who is passionate about software development.
+Hi! I'm Ben, a 1B Computer Engineering student at the University of Waterloo.
 
 - 💼 During my last co-op term, I worked for [@Fuego](https://fuego.io), building analytics tools and fully customizable native apps using a variety of technologies including but not limited to JavaScript, Next.js, React, Expo
   - I also previously interned for [@SAP](https://github.com/SAP).

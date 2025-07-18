@@ -2,7 +2,8 @@
 
 Hi! I'm Ben, a 1B Computer Engineering student at the University of Waterloo.
 
-- 💼 During my last co-op term, I worked for [@Fuego](https://fuego.io), building analytics tools and fully customizable native apps using a variety of technologies including but not limited to JavaScript, Next.js, React, Expo
+- 💼 I am an Incoming Software Engineering Intern @GrandCharter for Fall 2025.
+  - During my last co-op term, I worked for [@Fuego](https://fuego.io), building analytics tools and fully customizable native apps using a variety of technologies including but not limited to JavaScript, Next.js, React, Expo
   - I also previously interned for [@SAP](https://github.com/SAP).
 - 🌱 I spend my free time working on personal projects, creating packages/libraries, and competing in hackathons when I have the time.
 - 🥇 Some of my achievements include:

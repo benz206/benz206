@@ -11,6 +11,7 @@ Hi! I'm Ben, a 2A Computer Engineering student at the University of Waterloo.
   - **First Overall in Software**: Halton District School Board Hacks 2023
   - **First Overall in Entertainment**: Eureka Hackathon 2023
   - **Third Overall**: Hack the Ridge 2023
+  - **Top 10**: HopHacks 2025
 
 ## Skills
 

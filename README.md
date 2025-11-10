@@ -1,6 +1,6 @@
 # Ben Z
 
-Hi! I'm Ben, a Computer Engineering student at the University of Waterloo.
+Hi! I'm Ben.
 
 - 💼 I am a Software Engineering Intern [@GrandCharter](https://github.com/GrandCharter) for Fall 2025 in NYC.
   - During my last co-op term, I worked for [@Fuego](https://fuego.io), building analytics tools and fully customizable native apps using a variety of technologies including but not limited to JavaScript, Next.js, React, Expo

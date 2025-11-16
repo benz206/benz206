@@ -1,4 +1,4 @@
-# Ben Z
+# Ben
 
 Hi! I'm Ben.
 

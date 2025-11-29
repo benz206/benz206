@@ -2,9 +2,9 @@
 
 Hi! I'm Ben.
 
-- 💼 I am a Software Engineering Intern [@GrandCharter](https://github.com/GrandCharter) for Fall 2025 in NYC.
-  - During my last co-op term, I worked for [@Fuego](https://fuego.io), building analytics tools and fully customizable native apps using a variety of technologies including but not limited to JavaScript, Next.js, React, Expo
-  - I also previously interned for [@SAP](https://github.com/SAP).
+- 💼 I am a Software Engineering Intern [@GrandCharter](https://github.com/GrandCharter) in NYC.
+  - I also worked for [@Fuego](https://fuego.io), building analytics tools and fully customizable native apps using a variety of technologies including but not limited to JavaScript, Next.js, React, Expo
+  - Previously interned for [@SAP](https://github.com/SAP).
 - 🌱 I spend my free time working on personal projects, creating packages/libraries, and competing in hackathons when I have the time.
 - 🥇 Some of my achievements include:
   - **Sponsor Award Winner**: Hack the North 2024

@@ -26,10 +26,6 @@ Hi! I'm Ben.
   <img src="https://skillicons.dev/icons?i=c,ssh,rust,cs,prisma" />
 </p>
 
-## My Statistics
-
 ![Ben Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=benz206&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benz206&layout=compact&theme=tokyonight)
-
-![](https://komarev.com/ghpvc/?username=benz206&color=blue)

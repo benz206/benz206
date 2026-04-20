@@ -23,7 +23,7 @@ Hi! I'm Ben.
 ## Interested in...
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,ssh,rust,cs,prisma" />
+  <img src="https://skillicons.dev/icons?i=c,rust,cs,prisma" />
 </p>
 
 ![Ben Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=benz206&show_icons=true&theme=tokyonight)

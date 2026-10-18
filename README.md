@@ -2,7 +2,7 @@
 
 Hi! I'm Ben.
 
-- 💼 I'm a Engineer [@GrandCharter](https://github.com/GrandCharter).
+- 💼 I'm an Engineer [@Grand Charter](https://github.com/GrandCharter).
   - I also worked for [@Fuego](https://fuego.io) and [@SAP](https://github.com/SAP).
 - 🌱 I spend my free time working on personal projects, exploring, and enjoying everything around me!
 - 🥇 Some of my achievements include:

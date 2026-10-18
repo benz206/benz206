@@ -4,13 +4,10 @@ Hi! I'm Ben.
 
 - 💼 I'm an Engineer [@Grand Charter](https://github.com/GrandCharter).
   - I also worked for [@Fuego](https://fuego.io) and [@SAP](https://github.com/SAP).
-- 🌱 I spend my free time working on personal projects, exploring, and enjoying everything around me!
-- 🥇 Some of my achievements include:
-  - **Sponsor Award Winner**: Hack the North 2024
-  - **First Overall**: Halton District School Board Hacks 2023
-  - **First Overall**: Eureka Hackathon 2023
-  - **Third Overall**: Hack the Ridge 2023
-  - **Top 10**: HopHacks 2025
+- 🌱 I like playing poker, going to concerts, and enjoying my everyday life.
+- 🍉 Some other stuff about me
+  - [8VC Fellow 2026](https://8vc.com/fellows/ben-zhou)
+  - **Hackathon Wins**: Hack the North, HDSB Hackathon, Eureka Hacks, Hack the Ridge
 
 ## Skills
 
